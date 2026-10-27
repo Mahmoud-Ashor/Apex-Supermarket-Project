@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed to analyze retail sales performance, 
 
 ## 📷 Dashboard Preview & Key Insights
 
-![Apex Supermarket Dashboard](Screenshot%20for%20Apex%20Supermarket%20Dashboard.png)
+![Apex Supermarket Dashboard](Screenshot%20For%20Apex%20Supermarket%20Dashboard.png)
 
 ![Key Insights](Screenshot%20For%20Key%20Insights%20For%20Apex%20Market.png)
 
