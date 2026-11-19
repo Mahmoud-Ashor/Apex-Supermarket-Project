@@ -6,13 +6,13 @@ An interactive Power BI dashboard designed to analyze Q1 retail sales performanc
 ## 📷 Dashboard Preview (In Order)
 
 ### 1. Main / Overview Dashboard
-![Main Dashboard](dashboard-overview.png)
+![Main Dashboard](assets/01-main-dashboard.png)
 
 ### 2. Investigation Dashboard (February Dip & Sales Rep Gap)
-![Investigation Dashboard](investigation-dashboard.png)
+![Investigation Dashboard](assets/02-investigation-dashboard.png)
 
 ### 3. Key Insights & Performance Breakdown
-![Key Insights](key-insights.png)
+![Key Insights](assets/03-key-insights.png)
 
 ---
 
